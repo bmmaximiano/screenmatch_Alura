@@ -18,7 +18,7 @@ import java.util.List;
 import java.util.Scanner;
 
 // estudos de consumo de api usando JSON e framework GSON
-
+// Alura 2023
 public class PrincipalComBusca {
     public static void main(String[] args) throws IOException, InterruptedException {
 
